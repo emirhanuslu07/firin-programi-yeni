@@ -1,0 +1,17 @@
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\bin\Debug\net7.0-windows\fırın.exe
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\bin\Debug\net7.0-windows\fırın.deps.json
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\bin\Debug\net7.0-windows\fırın.runtimeconfig.json
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\bin\Debug\net7.0-windows\fırın.dll
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\bin\Debug\net7.0-windows\fırın.pdb
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.Form1.resources
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.Properties.Resources.resources
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.csproj.GenerateResource.cache
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.dll
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\refint\fırın.dll
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.pdb
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\fırın.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\source\repos\fırın\fırın\obj\Debug\net7.0-windows\ref\fırın.dll
